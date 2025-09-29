@@ -1,5 +1,5 @@
-![RAG News Research Tool](<img width="1918" height="747" alt="Screenshot 2025-09-30 033606" src="https://github.com/user-attachments/assets/3d1c05d8-a80b-4fd9-be9d-55de56f79c95" />
-)
+![RAG News Research Tool](https://github.com/user-attachments/assets/3d1c05d8-a80b-4fd9-be9d-55de56f79c95)
+
 This project implements a **Retrieval-Augmented Generation (RAG)** system for answering questions from online news articles. It provides two interfaces:  
 
 1. A **simple Python script (`simple.py`)** for command-line usage.  
